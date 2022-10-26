@@ -19,4 +19,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mdmoqaddas&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mdmoqaddas&label=Visitors%20Counter&icon=6&pretty=false)](https://visitcount.itsvg.in)
